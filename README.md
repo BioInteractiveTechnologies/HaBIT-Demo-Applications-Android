@@ -21,4 +21,4 @@ Contains the following applications:
 - Visualize raw force sensor output
 - Visualize HaBIT device orientation
 
-A pdf version of user manaul for the applications is also provided in this repository
+A pdf version of user manual for the applications is also provided in this repository
