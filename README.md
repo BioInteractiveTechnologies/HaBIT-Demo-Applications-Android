@@ -4,7 +4,7 @@ Compiled APKs for connecting and demonstrating the [HaBIT gesture recognition de
 
 Contains the following applications:
 
-## HaBIT Connection Service
+## [HaBIT Connection Service](https://github.com/BioInteractiveTechnologies/HaBIT-Cypress-to-Android-BLE-Application)
 - Provides android service connection to HaBIT Device
 - Listens to Broadcast updates to interact with Device
 - Broadcasts JSON String packaged data from Device
